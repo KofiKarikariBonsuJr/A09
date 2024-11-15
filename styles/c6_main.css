@@ -55,7 +55,7 @@ nav li {
 	float: left;
 }
 nav a {
-	display: inline-block;
+	display: block;
 	width: 160px;
 	text-align: center; 
 	padding-top: 1em 0;
