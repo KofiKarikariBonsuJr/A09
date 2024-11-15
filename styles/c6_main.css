@@ -52,7 +52,17 @@ nav ul{
   	margin: 0; 
 }
 nav li {
+	display: block;
+	width: 160px;
+	text-align: center; 
+	padding-top: 1em 0;
+	padding-bottom: 1em 0;
+	text-decoration: none;
+	background-color: #800000;
+	color: #ffffff;
+	font-weight: bold;
 	float: left;
+
 }
 nav a {
 	display: block;
